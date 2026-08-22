@@ -1,0 +1,5 @@
+[project]
+name = "adaptive-flight-control-testbed"
+version = "0.1.0"
+requires-python = ">=3.11"
+description = "Synthetic adaptive flight control experiment"
